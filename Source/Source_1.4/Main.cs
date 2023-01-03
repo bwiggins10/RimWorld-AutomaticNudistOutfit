@@ -22,8 +22,6 @@ namespace AutomaticNudistOutfit
 
                 foreach (var outfit in allOutfits)
                 {
-                    Log.Message($"Outfitname: {outfit.label}");
-
                     if (outfit.label == "Nudist")
                     {
                         pawn.outfits.CurrentOutfit = outfit;
