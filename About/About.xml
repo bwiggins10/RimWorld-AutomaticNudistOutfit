@@ -4,6 +4,7 @@
 	<author>Ben</author>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<packageId>ben.automaticnudistoutfit</packageId>
 	<description>Automatically assigns pawns with the nudist trait to the nudist outfit.

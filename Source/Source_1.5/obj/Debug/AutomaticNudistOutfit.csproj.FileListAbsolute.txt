@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AutomaticNudistOutfit\Source\AutomaticNudistOutfit\obj\Debug\AutomaticNudistOutfit.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AutomaticNudistOutfit\Source\AutomaticNudistOutfit\obj\Debug\AutomaticNudistOutfit.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AutomaticNudistOutfit\Assemblies\AutomaticNudistOutfit.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AutomaticNudistOutfit\Source\AutomaticNudistOutfit\obj\Debug\AutomaticNudistOutfit.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AutomaticNudistOutfit\Source\Source_1.5\obj\Debug\AutomaticNudistOutfit.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AutomaticNudistOutfit\Source\Source_1.5\obj\Debug\AutomaticNudistOutfit.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AutomaticNudistOutfit\Source\Source_1.5\obj\Debug\AutomaticNudistOutfit.dll
